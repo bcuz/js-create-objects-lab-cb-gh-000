@@ -11,3 +11,9 @@ function Cat(name, breed, age) {
   this.breed = breed
   this.age = age
 }
+
+function Ferret(name, foodRequirements, age) {
+  this.name = name
+  this.foodRequirements = foodRequirements
+  this.age = age
+}
